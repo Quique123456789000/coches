@@ -1,3 +1,18 @@
 body{
   background-color: black;
 }
+body.j {
+  background-color: gray;
+}
+H3.unoj{
+	color:black;
+	font-family:Lucida Bright; 
+}
+table.unoj {
+  width: 85%;
+  text-align:center;
+  border: 1px dotted;
+  margin-right: auto;
+  margin-left:auto;
+  font-family:Arial;
+}
