@@ -9,11 +9,15 @@ H3.unoj{
 	font-family:Lucida Bright; 
 }
 table.unoj {
-  width: 85%;
-  text-align:center;
-  border: 1px dotted;
-  margin-right: auto;
-  margin-left:auto;
-  font-family:Arial;
+	text-align:center;
+	font-family:Lucida Bright; 
+	border:none;
+	margin-left:90px;
+	margin-right:90px;
 }
-
+H1.unoj{
+ color:#BBFFC7 ;
+ margin-left: none;
+ font-family: Lucida Console, Courier New, monospace;
+ text-align:center;
+}
