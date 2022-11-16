@@ -170,7 +170,112 @@ th.cinco{
 	color:#6C5D46;
      font-family: serif;
 }
-	
+body {
+background-color: black;
+}
+h1 {
+font-family: fantasy;
+color: white;
+text-align: center;
+font-size: 70
+}
+
+table, th, td {
+  border: 1px solid;
+}
+#foto {
+  font-family: fantasy;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#foto td, #foto th {
+  border: 0px;
+  padding: 8px;
+}
+<table>
+  <tr>
+ 
+    <th>div.gallery {
+  margin: 5px;
+  border: 0px;
+  float: left;
+  width: 180px;
+ 
+}</th>
+    <th>div.gallery2 {
+  margin: 5px;
+  border: 0px;
+  float: left;
+  width: 180px;
+ 
+}</th>
+
+<th>    div.gallery3 {
+  margin: 5px;
+  border: 0px;
+  float: left;
+  width: 180px;
+}    </th>
+  </tr>
+
+
+
+
+
+div.gallery3 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+ div.padding {
+ font-family: fantasy;
+  border: 1px solid white;
+  color: white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+   text-indent: 50px;
+    text-shadow: white;
+
+}
+
+
+
+table, th, td {
+  border: 1px solid;
+}
+
+
+
+
+
+#Personajes {
+  font-family: fantasy;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#Personajes td, #Personajes th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#Personajes tr:nth-child(even){background-color: black;}
+
+#Personajes tr:hover {background-color: black;}
+
+#Personajes th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: black;
+  color: white;
+}
 
 
 
@@ -179,3 +284,59 @@ th.cinco{
 
 
 
+body.p {
+background-color: black;
+}
+h1 {
+font-family: fantasy;
+color: white;
+text-align: center;
+font-size: 70
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table {
+
+   border: 1px solid black;
+}
+
+
+
+
+#tabla {
+  font-family: fantasy;
+  color: white;
+  border-collapse: collapse;
+  width: 85%;
+  margin-right:20px;
+margin-left:20px;
+ border: 1px solid black;
+}
+
+#tabla td, #tabla th {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+#tabla tr:nth-child(even){background-color: black;}
+
+#tabla tr:hover {background-color: black;}
+
+#tabla th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  background-color: black;
+   border: 1px solid black;
+  color: white;
+}
