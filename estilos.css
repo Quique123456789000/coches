@@ -178,7 +178,7 @@ body {
 background-color: black;
 }
 h1 {
-font-family: fantasy;
+font-family: serif;
 color: white;
 text-align: center;
 font-size: 70
@@ -188,7 +188,7 @@ table, th, td {
   border: 1px solid;
 }
 #foto {
-  font-family: fantasy;
+  font-family: serif;
   border-collapse: collapse;
   width: 100%;
 }
@@ -302,7 +302,7 @@ table {
 }
 
 #tabla {
-  font-family: fantasy;
+  font-family: serif;
   color: white;
   border-collapse: collapse;
   width: 85%;
