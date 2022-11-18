@@ -35,7 +35,7 @@ font-size: 18px;
 }
 h4.unoj{
    text-align:center;
-   font-family:cursive;
+   font-family:serif;
    color:white;
    font-size: 18px;
 }
@@ -44,7 +44,7 @@ H3.unoj{
 	color:Yellow;
 	font-family:cursive;
 	margin-left:90px;
-	font-size:18px;
+	font-size:25px;
 }
 table.unoj {
 	text-align:center;
@@ -64,7 +64,12 @@ p.uno{
   color:white;
   font-size: 18px;
 }
-a {
+a.uno{
+  color:white;
+  font-family:serif; 
+  font-size: 25px;
+}
+a.dos{
   color:white;
   font-family:serif; 
   font-size: 18px;
@@ -73,8 +78,7 @@ H3.dosj{
 	color:#F186B5;
 	font-family:cursive; 
 	margin-left:90px;
-	font-size: 18px;
-	
+	font-size: 25px;	
 }
 b{
   font-family:cursive;
@@ -174,7 +178,7 @@ body {
 background-color: black;
 }
 h1 {
-font-family: serif;
+font-family: fantasy;
 color: white;
 text-align: center;
 font-size: 70
@@ -184,7 +188,7 @@ table, th, td {
   border: 1px solid;
 }
 #foto {
-  font-family: serif;
+  font-family: fantasy;
   border-collapse: collapse;
   width: 100%;
 }
@@ -231,7 +235,7 @@ div.gallery3 {
 }
 
  div.padding {
- font-family: serif;
+ font-family: fantasy;
   border: 1px solid white;
   color: white;
   padding-top: 50px;
@@ -243,18 +247,12 @@ div.gallery3 {
 
 }
 
-
-
 table, th, td {
   border: 1px solid;
 }
 
-
-
-
-
 #Personajes {
-  font-family: serif;
+  font-family: fantasy;
   color: white;
   border-collapse: collapse;
   width: 100%;
@@ -277,18 +275,11 @@ table, th, td {
   color: white;
 }
 
-
-
-
-
-
-
-
 body.p {
 background-color: black;
 }
 h1 {
-font-family: serif;
+font-family: fantasy;
 color: white;
 text-align: center;
 font-size: 70
@@ -296,7 +287,7 @@ font-size: 70
 
 div.gallery {
   margin: 5px;
-  border: 1px solid black;
+  border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
@@ -310,11 +301,8 @@ table {
    border: 1px solid black;
 }
 
-
-
-
 #tabla {
-  font-family: serif;
+  font-family: fantasy;
   color: white;
   border-collapse: collapse;
   width: 85%;
