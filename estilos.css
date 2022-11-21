@@ -84,17 +84,15 @@ b{
   font-family:cursive;
   font-size: 18px;
 }
-body{
-background-color:black  ;
 }
-h1{
+h1.q{
 text-align: center;
 font-size: 80px;
 color: white;
 font-family: serif;
 }
 
-table{
+table.q{
   border: 0px;
   text-align: left;
   font-family: serif;
@@ -174,67 +172,53 @@ th.cinco{
 	color:#6C5D46;
      font-family: serif;
 }
-body {
-background-color: black;
-}
-h1 {
+h1.unop{
 font-family: serif;
 color: white;
 text-align: center;
 font-size: 70
 }
 
-table, th, td {
-  border: 1px solid;
-}
-#foto {
+#foto.p {
   font-family: serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-#foto td, #foto th {
+#foto td, #foto th.p {
   border: 0px;
   padding: 8px;
 }
-<table>
-  <tr>
- 
-    <th>div.gallery {
+
+div.gallery.p{
   margin: 5px;
   border: 0px;
   float: left;
   width: 180px;
  
-}</th>
-    <th>div.gallery2 {
+}
+div.gallery2.p{
   margin: 5px;
   border: 0px;
   float: left;
   width: 180px;
  
-}</th>
-
-<th>    div.gallery3 {
+}
+ div.gallery3.p {
   margin: 5px;
   border: 0px;
   float: left;
   width: 180px;
-}    </th>
-  </tr>
-
-
-
-
-
-div.gallery3 {
+}  
+ 
+div.gallery3.p {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
 
- div.padding {
+ div.padding.p{
  font-family: fantasy;
   border: 1px solid white;
   color: white;
@@ -247,27 +231,24 @@ div.gallery3 {
 
 }
 
-table, th, td {
+table, th, td.p {
   border: 1px solid;
 }
 
-#Personajes {
+#Personajes.p {
   font-family: fantasy;
   color: white;
   border-collapse: collapse;
   width: 100%;
 }
 
-#Personajes td, #Personajes th {
+#Personajes td, #Personajes th.p{
   border: 1px solid #ddd;
   padding: 8px;
 }
 
-#Personajes tr:nth-child(even){background-color: black;}
 
-#Personajes tr:hover {background-color: black;}
-
-#Personajes th {
+#Personajes th .p{
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
@@ -275,33 +256,30 @@ table, th, td {
   color: white;
 }
 
-body.p {
-background-color: black;
-}
-h1 {
+h1.dosp {
 font-family: fantasy;
 color: white;
 text-align: center;
 font-size: 70
 }
 
-div.gallery {
+div.gallery.p {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
 
-table, th, td {
+table, th, td.p{
   border: 1px solid black;
 }
 
-table {
+table.p {
 
    border: 1px solid black;
 }
 
-#tabla {
+#tabla.p{
   font-family: serif;
   color: white;
   border-collapse: collapse;
@@ -311,16 +289,16 @@ margin-left:20px;
  border: 1px solid black;
 }
 
-#tabla td, #tabla th {
+#tabla td, #tabla th.p {
   border: 1px solid black;
   padding: 8px;
 }
 
-#tabla tr:nth-child(even){background-color: black;}
+#tabla tr.p:nth-child(even){background-color: black;}
 
-#tabla tr:hover {background-color: black;}
+#tabla tr:hover.p{background-color: black;}
 
-#tabla th {
+#tabla th.p {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: left;
