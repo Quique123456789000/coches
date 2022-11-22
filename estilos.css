@@ -73,3 +73,229 @@ H3.dosj{
 	margin-left:90px;
 	font-size: 25px;	
 }
+b{
+  font-family:cursive;
+  font-size: 18px;
+}
+}
+h1.q{
+text-align: center;
+font-size: 80px;
+color: white;
+font-family: serif;
+}
+
+table.q{
+  border: 0px;
+  text-align: left;
+  font-family: serif;
+  font-size: 25px;
+  color: white;
+margin-left:90px;
+	margin-right:90px;
+    color:white;
+	font-size:18px;
+}
+
+
+·#jef{
+   width: 100%;
+  border: 0px;
+  text-align: left;
+  font-family: serif;
+  font-size: 25px;
+  color: white;
+  padding: 5px;
+  margin-left:50PX;
+  margin-right: 20px;
+}
+
+#ev{
+width: 100%;
+  border: 0px;
+  text-align: left;
+  font-family: serif;
+  font-size: 25px;
+  color: white;
+  padding: 5px;
+    margin-left: 20px;
+margin-right: 20px;
+}
+
+#m{
+width: 100%;
+  border: 0px;
+  text-align: left;
+  font-family: serif;
+  font-size: 25px;
+  color: white;
+  padding: 5px;
+    margin-left: 20px;
+margin-right: 20px;
+}
+ 
+#blinders{
+width: 100%;
+  border: 0px;
+  text-align: left;
+  font-family: serif;
+  font-size: 25px;
+  color: white;
+  padding: 5px;
+    margin-left: 20px;
+ margin-right: 20px;
+}
+th.uno{
+	color:red;
+     font-family: serif;
+}
+th.dos{
+	color:yellow;
+     font-family: serif;
+}
+th.tres{
+	color:#F186B5;
+     font-family: serif;
+}
+th.cuatro{
+	color:white;
+     font-family: serif;
+}
+th.cinco{
+	color:#6C5D46;
+     font-family: serif;
+}
+h1.unop{
+font-family: serif;
+color: white;
+text-align: center;
+font-size: 70
+}
+
+#foto.p {
+  font-family: serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#foto td, #foto th.p {
+  border: 0px;
+  padding: 8px;
+}
+
+div.gallery.p{
+  margin: 5px;
+  border: 0px;
+  float: left;
+  width: 180px;
+ 
+}
+div.gallery2.p{
+  margin: 5px;
+  border: 0px;
+  float: left;
+  width: 180px;
+ 
+}
+ div.gallery3.p {
+  margin: 5px;
+  border: 0px;
+  float: left;
+  width: 180px;
+}  
+ 
+div.gallery3.p {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+ div.padding.p{
+ font-family: fantasy;
+  border: 1px solid white;
+  color: white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+   text-indent: 50px;
+    text-shadow: white;
+
+}
+
+table, th, td.p {
+  border: 1px solid;
+}
+
+#Personajes.p {
+  font-family: fantasy;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#Personajes td, #Personajes th.p{
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+
+#Personajes th .p{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: black;
+  color: white;
+}
+
+h1.dosp {
+font-family: fantasy;
+color: white;
+text-align: center;
+font-size: 70
+}
+
+div.gallery.p {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+table, th, td.p{
+  border: 1px solid black;
+}
+
+table.p {
+
+   border: 1px solid black;
+}
+
+#tabla.p{
+  font-family: serif;
+  color: white;
+  border-collapse: collapse;
+  width: 85%;
+  margin-right:20px;
+margin-left:20px;
+ border: 1px solid black;
+}
+
+#tabla td, #tabla th.p {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+#tabla tr.p:nth-child(even){background-color: black;}
+
+#tabla tr:hover.p{background-color: black;}
+
+#tabla th.p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  background-color: black;
+   border: 1px solid black;
+  color: white;
+}
