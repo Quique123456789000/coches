@@ -5,7 +5,7 @@
 </head>
 
 
- <table id="tabla"> 
+ <table id="tabla.p"> 
  <tr> 
  <th>The Mandalorian es una serie de la franquicia Star Wars, una de las más grandes.
  La serie ha sido creada por Disney que le compró esta franquicia al productor George Lucas en 2013.
@@ -25,7 +25,7 @@ El Niño (interpretado por varios titiriteros), cuyo nombre verdadero es Grogu y
  maestro Yoda con habilidades similares en la Fuerza. Pese a ser apodado cariñosamente como "el niño" tiene más de
  50 años y es un ejemplar muy joven de su especie. 
  </th>
- <th> <div class="gallery">
+ <th> <div class="gallery.p">
   <a target="_blank" href="The_Mandalorian_2_Serie_de_TV-903747371-large.jpg">
     <img src="The_Mandalorian_2_Serie_de_TV-903747371-large.jpg" width="360" height="400">
   </a> </div> </th> </tr>
@@ -33,7 +33,7 @@ El Niño (interpretado por varios titiriteros), cuyo nombre verdadero es Grogu y
  </div>
  <br>
  <tr>
- <th>  <div class="gallery">
+ <th>  <div class="gallery.p">
   <a target="_blank" href="the-mandalorian-season-2-1604051753.jpeg">
     <img src="the-mandalorian-season-2-1604051753.jpeg" width="450" height="350">
   </a> </div></th> 
@@ -57,7 +57,7 @@ Mando se juega la vida para llegar a este individuo, y descubrimos que ese indiv
 , a lo largo de la serie, mientras se convierte en el objetivo de una multitud de cazarrecompensas que quieren secuestrarlo.  </th>
  
  
- <th> <div class="gallery">
+ <th> <div class="gallery.p">
   <a target="_blank" href="1366_2000.jpeg">
     <img src="1366_2000.jpeg" width="450" height="350">
   </a> </div></th> 
