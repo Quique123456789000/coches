@@ -337,7 +337,7 @@ table.quique {
   font-family: fantasy;
 }
 
-#tabla td, #tabla th {
+#tabla td.quiquetres, #tabla th.quiquetres {
   border: 1px solid black;
   padding: 8px;
 }
@@ -346,7 +346,7 @@ table.quique {
 
 #tabla tr:hover {background-color: black;}
 
-#tabla td {
+#tabla td.quiquedos {
   padding-top: px;
   font-family: fantasy;
   padding-bottom: 10px;
