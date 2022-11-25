@@ -87,12 +87,11 @@ font-family: serif;
 td{
   color:white;
 }
-
 table.q{
   border: 0px;
   text-align: left;
-  font-family: fantasy;
-  font-size: 40px;
+  font-family: serif;
+  font-size: 25px;
   color: white;
 margin-left:90px;
 	margin-right:90px;
@@ -105,8 +104,8 @@ margin-left:90px;
    width: 100%;
   border: 0px;
   text-align: left;
-  font-family: fantasy;
-  font-size: 50px;
+  font-family: serif;
+  font-size: 25px;
   color: white;
   padding: 5px;
   margin-left:50PX;
@@ -117,8 +116,8 @@ margin-left:90px;
 width: 100%;
   border: 0px;
   text-align: left;
-  font-family: fantasy;
-  font-size: 40px;
+  font-family: serif;
+  font-size: 25px;
   color: white;
   padding: 5px;
     margin-left: 20px;
@@ -129,7 +128,7 @@ margin-right: 20px;
 width: 100%;
   border: 0px;
   text-align: left;
-  font-family: fantasy;
+  font-family: serif;
   font-size: 25px;
   color: white;
   padding: 5px;
@@ -141,8 +140,8 @@ margin-right: 20px;
 width: 100%;
   border: 0px;
   text-align: left;
-  font-family: fantasy;
-  font-size: 30px;
+  font-family: serif;
+  font-size: 25px;
   color: white;
   padding: 5px;
     margin-left: 20px;
@@ -217,6 +216,7 @@ div.gallery3.p {
  
 div.padding.unop{
  font-family: serif;
+  font-size: 20px;
   border: 1px solid white;
   color: white;
   padding-top: 50px;
