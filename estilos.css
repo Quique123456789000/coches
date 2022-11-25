@@ -319,10 +319,7 @@ table, th, td {
   border: 1px solid black;
 }
 
-table {
-  width: 100%;
-   border: 1px solid black;
-}
+
 
 
 
@@ -341,6 +338,8 @@ table {
 #tabla td, #tabla th {
   border: 1px solid black;
   padding: 8px;
+margin-left:90px;
+	margin-right:90px;
 }
 
 #tabla tr:nth-child(even){background-color: black;}
@@ -356,6 +355,8 @@ table {
   background-color: black;
    border: 1px solid black;
   color: white;
+ margin-left:90px;
+ margin-right:90px;
 }
 #t3{
 padding-top: 10px;
