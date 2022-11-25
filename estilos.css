@@ -313,3 +313,74 @@ margin-left:20px;
    border: 1px solid black;
   color: white;
 }
+
+
+
+
+
+
+
+
+
+
+body{
+	background-color: black;
+	background-attachment: fixed;
+	color: white;
+	text-align: center;
+	font-size: 32px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+   border: 1px solid black;
+}
+
+
+
+
+#t2 {
+   padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  font-size: 22px;
+  background-color: black;
+   border: 1px solid black;
+  color: white;
+  font-family: fantasy;
+}
+
+#tabla td, #tabla th {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+#tabla tr:nth-child(even){background-color: black;}
+
+#tabla tr:hover {background-color: black;}
+
+#tabla td {
+  padding-top: px;
+  font-family: fantasy;
+  padding-bottom: 10px;
+  text-align: left;
+  font-size: 25px;
+  background-color: black;
+   border: 1px solid black;
+  color: white;
+}
+#t3{
+padding-top: 10px;
+  font-family: fantasy;
+  padding-bottom: 10px;
+  text-align: left;
+  font-size: 21px;
+  background-color: black;
+   border: 1px solid black;
+  color: white;
+  border-color: white;
+}
