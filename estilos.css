@@ -213,20 +213,9 @@ div.gallery3.p {
   width: 180px;
 }
 
- div.padding.p{
- font-family: fantasy;
-  border: 1px solid white;
-  color: white;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-   text-indent: 50px;
-    text-shadow: white;
-
-}
+ 
 div.padding.unop{
- font-family: fantasy;
+ font-family: serif;
   border: 1px solid white;
   color: white;
   padding-top: 50px;
@@ -243,7 +232,7 @@ table, th, td.p {
 }
 
 #Personajes.p {
-  font-family: fantasy;
+  font-family: serif;
   color: white;
   border-collapse: collapse;
   width: 100%;
@@ -318,7 +307,24 @@ margin-left:20px;
 
 
 
-table.quique {
+
+
+
+
+
+body{
+	background-color: black;
+	background-attachment: fixed;
+	color: white;
+	text-align: center;
+	font-size: 32px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table {
   width: 100%;
    border: 1px solid black;
 }
@@ -337,7 +343,7 @@ table.quique {
   font-family: fantasy;
 }
 
-#tabla td.quiquetres, #tabla th.quiquetres {
+#tabla td, #tabla th {
   border: 1px solid black;
   padding: 8px;
 }
@@ -346,7 +352,7 @@ table.quique {
 
 #tabla tr:hover {background-color: black;}
 
-#tabla td.quiquedos {
+#tabla td {
   padding-top: px;
   font-family: fantasy;
   padding-bottom: 10px;
