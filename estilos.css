@@ -78,12 +78,7 @@ b{
   font-size: 18px;
 }
 }
-h1.q{
-text-align: center;
-font-size: 80px;
-color: white;
-font-family: serif;
-}
+
 td{
   color:white;
 }
@@ -98,7 +93,12 @@ margin-left:90px;
     color:white;
 	font-size:18px;
 }
-
+h1.unoq{
+text-align: center;
+font-size: 80px;
+color: white;
+font-family: serif;
+}
 
 ·#jef{
    width: 100%;
