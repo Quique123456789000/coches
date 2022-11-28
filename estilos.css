@@ -46,7 +46,7 @@ table.unoj {
 	margin-left:90px;
 	margin-right:90px;
     color:white;
-	font-size:8px;
+	font-size:18px;
 }
 p.uno{
 	 border: 1px solid black;
@@ -77,13 +77,16 @@ b{
   font-family:cursive;
   font-size: 18px;
 }
-}
 
-td{
-  text-align: center;
+h1.q{
+text-align: center;
 font-size: 80px;
 color: white;
 font-family: serif;
+}
+
+td{
+  color:white;
 }
 table.q{
   border: 0px;
@@ -96,13 +99,7 @@ margin-left:90px;
     color:white;
 	font-size:18px;
 }
-h1.unoq{
-text-align: center;
-font-size: 80px;
-color: white;
-font-family: serif;
-}
-td.unoquique{ color: white;
+
 
 ·#jef{
    width: 100%;
@@ -171,6 +168,17 @@ th.cinco{
 	color:#6C5D46;
      font-family: serif;
 }
+td.cincoq{
+
+  text-align: left;
+  font-family: serif;
+  font-size: 25px;
+  color: white;
+margin-left:90px;
+	margin-right:90px;
+    color:white;
+	font-size:18px;
+}
 h1.unop{
 font-family: serif;
 color: white;
@@ -217,10 +225,20 @@ div.gallery3.p {
   width: 180px;
 }
 
- 
+ div.padding.p{
+ font-family: fantasy;
+  border: 1px solid white;
+  color: white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+   text-indent: 50px;
+    text-shadow: white;
+
+}
 div.padding.unop{
- font-family: serif;
-  font-size: 10px;
+ font-family: fantasy;
   border: 1px solid white;
   color: white;
   padding-top: 50px;
@@ -237,7 +255,7 @@ table, th, td.p {
 }
 
 #Personajes.p {
-  font-family: serif;
+  font-family: fantasy;
   color: white;
   border-collapse: collapse;
   width: 100%;
@@ -315,17 +333,9 @@ margin-left:20px;
 
 
 
-
-
-
-
 table, th, td {
   border: 1px solid black;
 }
-
-
-
-
 
 
 #t2 {
@@ -350,7 +360,7 @@ margin-left:90px;
 
 #tabla tr:hover {background-color: black;}
 
-#tabla td {
+#tabla td.oss {
   padding-top: px;
   font-family: fantasy;
   padding-bottom: 10px;
@@ -362,7 +372,7 @@ margin-left:90px;
  margin-left:90px;
  margin-right:90px;
 }
-#t3{
+#t3os{
 padding-top: 10px;
   font-family: fantasy;
   padding-bottom: 10px;
